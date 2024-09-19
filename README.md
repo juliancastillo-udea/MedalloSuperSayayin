@@ -40,8 +40,7 @@
 <a href="mailto:jandres.castillo@udea.edu.co"> ✉ Julian Andres Castillo Grisales </a>
 <h2> <b> Por: Yony Fernando Ceballos. </b> </h2>
 <a href="mailto:yony.ceballos@udea.edu.co"> ✉ Yony Fernando Ceballos </a>
-<h2> <b> Por: Yony Fernando Ceballos. </b> </h2>
-<a href="mailto:yony.ceballos@udea.edu.co"> ✉ Yony Fernando Ceballos </a>
+
 </div>
 
 <br>
