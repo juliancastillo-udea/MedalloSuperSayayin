@@ -44,3 +44,18 @@
 </div>
 
 <br>
+
+# **Descripción del problema a solucionar -Software gestión turnos**
+
+La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
+
+Para solucionar este problema los estudiantes en grupos de máximo tres integrantes, deberán crear un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que dispone el servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el cual los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida.
+
+# **El software de la EPS para las citas**
+
+La EPS Paila Salud, tiene un sistema de asignación de citas el cual recibe la solicitud de cita de los pacientes y registra su día, horario, tipo de cita, médico y la información personal del paciente. Este listado será proporcionado por una función del repositorio inicial.
+
+# **Objetivo**
+
+Crear un programa de consola visualmente amigable al usuario, en donde permita gestionar la atención de los pacientes y registrar los datos en un dataframe , para posteriormente exportar la atención en un archivo plano (CSV) usando Python y la gestión de dos documentos. Uno proporcionado por el repositorio inicial y otro creado por el estudiante para entregar una carpeta con los listados de pacientes.
+
