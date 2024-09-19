@@ -13,7 +13,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h1><b>Trabajo Final - Medallo Super Sayayin</b></h1>
             </td>
         </tr>
